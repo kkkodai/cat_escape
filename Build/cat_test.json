@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "cat",
+"dataUrl": "cat_test.data.unityweb",
+"asmCodeUrl": "cat_test.asm.code.unityweb",
+"asmMemoryUrl": "cat_test.asm.memory.unityweb",
+"asmFrameworkUrl": "cat_test.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
